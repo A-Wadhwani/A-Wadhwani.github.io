@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"topa",
+				"top_ask"
+			],
+			[
+				"top",
+				"top_bid"
+			],
+			[
+				"q",
+				"quote"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"min",
+				"minimumSwaps"
+			],
+			[
+				"po",
+				"pop_back"
+			],
+			[
+				"star",
+				"startup_mode"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"marke",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"marke\t",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar\t\t\t\t",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set Syntax:HTM",
+				"Set Syntax: HTML"
+			],
+			[
+				"pacakge",
+				"Package Control: Disable Package"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"Hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"Hexview",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"PAckage Controle: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 2/hw2/hw2.h",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 3/hw3/hw3.h",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 5/hw5/hw5.h",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 6/hw6/hw6.h",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 9/hw9/hw9.c",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 8/hw8/hw8.c",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 7/hw7/hw7.h",
+		"/C/Users/Aryan Wadhwani/Downloads/hw5.c",
+		"/C/Users/Aryan Wadhwani/AppData/Roaming/alacritty/alacritty.yml",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Project 5 Development/180SU20-PJ05-Profile/PJ05-Profile.md",
+		"/C/Users/Aryan Wadhwani/Downloads/hw6.c",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/180SU20-HW07/Handouts/HW08 - Challenge.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/180SU20-PJ05/Account/Client/AccountController.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Project 5 Development/180SU20-PJ05-Profile/PJ05-Profile.pub",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Project 5 Development/180SU20-PJ05/src/Profile/Client/RegisterView.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/180SU20-PJ05/Main/Client.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/180SU20-PJ05/Account/Client/AccountModel.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/180SU20-PJ05/Main/RequestHandler.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/180SU20-PJ05/Solution/src/AccountView.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/180SU20-PJ05/Main/Server.java",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Project/Checkpoint 2/music/cool songs/bohemian.mid",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 2/hw2/hw2.c",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Project/Checkpoint 1/proj1/src/parser.c",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/180SU20-HW07/Solution/Challenge/StoreCatalog.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/180FA20-HW09/Test Cases - Vocareum/Challenge/ShapeTest.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/180SU20-HW07/Tests-Vocareum/Challenge/ChallengeTests.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Project 5 Development/summer20-180SU20-06PJ05-Posts/client/Client.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Project 5 Development/summer20-180SU20-06PJ05-Posts/Message.java",
+		"/C/Users/Aryan Wadhwani/Downloads/lib/iPhoneXXS11Pro2.dart",
+		"/C/Users/Aryan Wadhwani/Downloads/lib/iPhoneXXS11Pro1.dart",
+		"/C/tools/alacritty/gitlab.pub",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 4/hw4/hw4.h",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 4/hw4/hw4.c",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 5/hw5/hw5.c",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/180SU20-HW07/Handouts/HW07 - Challenge.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/180SU20-HW07/Handouts/HW07 - Walkthrough.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/180SU20-HW07/Handouts/HW07 - Debugging.md",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 3/CareerTest.java",
+		"/C/Users/Aryan Wadhwani/Documents/JPMorgan Chase SE Virtual Experience/Module 1/JPMC-tech-task-1-py3/client_test.py",
+		"/C/Users/Aryan Wadhwani/Documents/JPMorgan Chase SE Virtual Experience/Module 1/JPMC-tech-task-1-py3/server3.py",
+		"/C/Users/julia/AppData/Local/JuliaPro/packages/padding_some_junk_value/in_here/creating_a_pattern_to_be_replaced/conda/3/HookupHotshot.E162.Baby.Goth.Anal.XXX.1080p.MP4-KTR[rarbg]/hookuphotshot.e162.baby.goth.anal.nfo",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/180FA20-HW09/Handout-Challenge.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/180FA20-HW09/Handout-Debugging.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/180FA20-HW09/Handout-Walkthrough.md",
+		"/C/Users/Aryan Wadhwani/Documents/JPMorgan Chase SE Virtual Experience/Module 1/JPMC-tech-task-1-py3/README.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180FA20-HW09/Javadoc/HW09-Javadoc-Challenge/package-summary.html",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180FA20-HW09/Javadoc/HW09-Javadoc-Challenge/index.html",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180FA20-HW09/Handout-Walkthrough.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180FA20-HW09/Handout-Debugging.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180FA20-HW09/Handout-Challenge.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/180SU20-HW07/Tests-Vocareum/Debugging/DebuggingTests.java",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 2/hw2/hw2_main.c",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/180SU20-HW07/Handouts/HW07 - Walkthrough.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180FA20-HW09/Handouts/Handout-Walkthrough.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/180SU20-HW07/Handouts/HW07 - Challenge.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/README.md",
+		"/C/Users/Aryan Wadhwani/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/Aryan Wadhwani/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Labs/Lab 9/Book.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 5/Polar.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 5/Cartesian.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 8/Pyramid.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 8/Cube.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 8/Sphere.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Labs/Lab 9/IPhone.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Labs/Lab 9/Novel.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Labs/Lab 9/MacBook.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 7/UnsupportedColorSpectrumException.java",
+		"/C/Users/Aryan Wadhwani/Documents/Minecraft Server/World Controller/server.properties",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 7/hw7/hw7.c",
+		"/C/Users/Aryan Wadhwani/Documents/Spring 2020/CS 24000 - Programming in C/Homework/Homework 6/hw6/hw6.c",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 9/CPlusPlus.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 9/AccessoryMethods.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 9/ProgrammingLanguage.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 8/ThreeDimensionalShape.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Labs/Lab 9/Computer.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Labs/Lab 9/ComputerClass.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Labs/Lab 9/IPad.java",
+		"/C/Users/Aryan Wadhwani/Documents/ScotlandYard/scotlandyard.py",
+		"/C/Users/Aryan Wadhwani/AppData/Local/Temp/Temp1_Starter Code.zip/startercode.0/UnexpectedSideLengthException.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180SU20-HW07/Tests-Vocareum/Debugging/DebuggingGrader.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180SU20-HW07/Tests-Vocareum/Debugging/grade.sh",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180SU20-HW07/Tests-Vocareum/Challenge/grade.sh",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180SU20-HW07/Handouts/HW07-Walkthrough.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180SU20-HW07/Handouts/HW07 - Challenge.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180SU20-HW07/Handouts/HW07-Debugging.md",
+		"/C/Users/Aryan Wadhwani/AppData/Local/Temp/Temp1_Starter Code.zip/startercode/UnsupportedColorSpectrumException.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/180SU20-HW07/Handouts/HW07-Debugging.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180SU20-HW07/Tests-Vocareum/grade.sh",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180SU20-HW07/Tests-Vocareum/ChallengeGrader.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180SU20-HW07/Javadoc/search.js",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180SU20-HW07/Javadoc/script.js",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/Playground/180SU20-HW07/Javadoc/package-search-index.js",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Labs/Lab 8/FileDebug.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/180SU20-HW07/Javadoc/index.html",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 7/Color.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Labs/Lab 8/BookInformation.java",
+		"/C/Users/Aryan Wadhwani/AppData/Local/Temp/Temp1_Starter Code.zip/startercode/FileDebug.java",
+		"/C/Users/Aryan Wadhwani/AppData/Local/Temp/Temp1_Starter Code.zip/startercode/Driver.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Labs/Lab 8/Driver.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 7/ColorEngine.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 7/ColorApproximation.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Labs/Lab 8/FileIO.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 6/Book.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 6/Bookstore.java",
+		"/C/Users/Aryan Wadhwani/Documents/Code Practice/Arrays/newYearChaos.cpp",
+		"/C/Users/Aryan Wadhwani/Documents/A-Wadhwani.github.io/skills.html",
+		"/C/Users/Aryan Wadhwani/Documents/A-Wadhwani.github.io/coursework.html",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/SU20-HW12/Starter Code/src/Walkthrough/UniversityCardGUI.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/SU20-HW12/Starter Code/src/Walkthrough/Grade.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/SU20-HW12/Starter Code/src/Debugging/SimpleCalculator.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/SU20-HW12/Starter Code/src/Challenge/GpaCalculator.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/SU20-HW12/Starter Code/src/Challenge/Grade.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/SU20-HW12/HW12-Challenge.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/SU20-HW12/Starter Code/src/Walkthrough/EnumDemo.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 1/BusinessCard.java",
+		"/C/Users/Aryan Wadhwani/Documents/A-Wadhwani.github.io/Readme.md",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 13/AddController.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Homework/Homework 13/AddView.java",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/SU20-HW12/HW12-Debugging.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/SU20-HW12/HW12-Walkthrough.md",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/SU20-HW12/Solution/src/Walkthrough/UniversityCardGUI.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Projects/Project 2/COLOR.java",
+		"/C/Users/Aryan Wadhwani/Documents/Fall 2019/CS 18000 - Problem Solving and Object-Oriented Programming/Projects/Project 2/CARD.java",
+		"/C/Users/Aryan Wadhwani/.ssh/known_hosts",
+		"/C/Users/Aryan Wadhwani/.ssh/id_rsa.pub",
+		"/C/Users/Aryan Wadhwani/Documents/Development Pool/summer20/SU20-HW12/handout/HW12-Walkthrough.md",
+		"/C/Users/Aryan Wadhwani/Documents/Employees Program on Java/AddAccount.java"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 169.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 59.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "skills.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
